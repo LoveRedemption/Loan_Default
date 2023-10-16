@@ -1,5 +1,5 @@
 ## **About**
-- This dataset provides information on individuals' financial situation and reputation. Its objective is to predict who may default on a loan payment and who may not, using a machine learning model. The dataset contains four primary columns, each describing a distinct aspect of an individual's financial situation. These columns are:
+- The dataset contains data on people's financial standing and reputation, with the aim of identifying those who are likely to default on a loan payment. To achieve this, you can use a binary classification model that predicts the probability of an employee defaulting on a loan based on the variables provided. By training the model on historical data where the loan default status of each employee is known, you can predict the loan default status of new employees based on their features.
 
 ## **Columns:**
 
