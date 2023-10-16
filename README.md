@@ -12,13 +12,13 @@
 - Defaulted: Indicates whether the person has ever fallen behind on a loan or other financial commitment. 
 
 
-**Skills and Tool Used:** 
+## **Skills and Tool Used:** 
 - Python
 - Data cleaning, Data Manipulation and Data Wrangling.
 - Exploratory Data Analysis (Univariate, Bivariate, Multivariate Analysis, and Visualization).
 
 
-**Libraries Used:**
+## **Libraries Used:**
 - Numpy
 - Pandas
 - Matplotlib
